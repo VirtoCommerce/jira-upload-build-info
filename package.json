@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/HighwayThree/jira-upload-build-info#readme",
   "dependencies": {
-    "@actions/core": "^1.2.1",
-    "@actions/github": "^2.0.1",
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^2.1.1",
     "@highwaythree/jira-github-actions-common": "^1.0.10",
     "dateformat": "^3.0.3",
     "request": "^2.88.0",
